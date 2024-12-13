@@ -175,7 +175,7 @@ capable of producing 50,000 seeds of indigenous flora of the region.</font>
 ![alt text](<Screenshot 2024-12-03 140407.png>)
 ![alt text](<Screenshot 2024-12-03 140526.png>)
 ![alt text](<Screenshot 2024-12-03 140636.png>)
-
+![alt text](<Screenshot 2024-12-03 141824.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
